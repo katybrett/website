@@ -1,0 +1,14 @@
+img{
+    position: static;
+
+    max-height: 60vh;
+    
+}   
+
+body {
+    background-color: rgb(197, 86, 86);
+}
+
+audio{
+    display: none;
+}
